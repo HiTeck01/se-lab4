@@ -1,0 +1,4 @@
+# Create a ship only one ammo
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # should have fired from the primary store
+TORPEDO,SINGLE  # should have failed

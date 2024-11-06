@@ -1,0 +1,5 @@
+# Create a ship only one ammo
+GT4500,2,0,0,0
+TORPEDO,SINGLE  
+TORPEDO,SINGLE 
+TORPEDO,SINGLE
